@@ -1,0 +1,449 @@
+2022-12-19 09:51:57.540  INFO 22921 --- [main] com.smartsti.rest.StiApplication         : Starting StiApplication using Java 11.0.2 on CAHAL1WLY18020 with PID 22921 (/Users/gsandhu/Documents/Workspace/sti/build/classes/java/main started by gsandhu in /Users/gsandhu/Documents/Workspace/sti)
+2022-12-19 09:51:57.542  INFO 22921 --- [main] com.smartsti.rest.StiApplication         : No active profile set, falling back to default profiles: default
+2022-12-19 09:51:58.165  INFO 22921 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=751fa03c-d591-3b59-ae65-237aeb707d28
+2022-12-19 09:51:58.399  INFO 22921 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3000 (http)
+2022-12-19 09:51:58.407  INFO 22921 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-19 09:51:58.408  INFO 22921 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2022-12-19 09:51:58.525  INFO 22921 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-19 09:51:58.526  INFO 22921 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 947 ms
+2022-12-19 09:51:58.899  INFO 22921 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3000 (http) with context path ''
+2022-12-19 09:51:59.047  INFO 22921 --- [main] com.smartsti.rest.StiApplication         : Started StiApplication in 2.549 seconds (JVM running for 2.977)
+2022-12-19 09:53:12.673  INFO 22921 --- [http-nio-3000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-19 09:53:12.675  INFO 22921 --- [http-nio-3000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-12-19 09:53:12.680  INFO 22921 --- [http-nio-3000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2022-12-19 09:55:13.302  INFO 23108 --- [main] com.smartsti.rest.StiApplication         : Starting StiApplication using Java 11.0.2 on CAHAL1WLY18020 with PID 23108 (/Users/gsandhu/Documents/Workspace/sti/build/classes/java/main started by gsandhu in /Users/gsandhu/Documents/Workspace/sti)
+2022-12-19 09:55:13.303  INFO 23108 --- [main] com.smartsti.rest.StiApplication         : No active profile set, falling back to default profiles: default
+2022-12-19 09:55:13.887  INFO 23108 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=de20f53a-4923-3428-9f58-ece63d7f80cd
+2022-12-19 09:55:14.056  INFO 23108 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3000 (http)
+2022-12-19 09:55:14.062  INFO 23108 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-19 09:55:14.062  INFO 23108 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2022-12-19 09:55:14.138  INFO 23108 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-19 09:55:14.138  INFO 23108 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 800 ms
+2022-12-19 09:55:14.508  INFO 23108 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3000 (http) with context path ''
+2022-12-19 09:55:14.653  INFO 23108 --- [main] com.smartsti.rest.StiApplication         : Started StiApplication in 1.825 seconds (JVM running for 2.139)
+2022-12-19 09:55:29.573  INFO 23108 --- [http-nio-3000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-19 09:55:29.574  INFO 23108 --- [http-nio-3000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-12-19 09:55:29.575  INFO 23108 --- [http-nio-3000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-12-19 09:56:39.574  INFO 23178 --- [main] com.smartsti.rest.StiApplication         : Starting StiApplication using Java 11.0.2 on CAHAL1WLY18020 with PID 23178 (/Users/gsandhu/Documents/Workspace/sti/build/classes/java/main started by gsandhu in /Users/gsandhu/Documents/Workspace/sti)
+2022-12-19 09:56:39.576  INFO 23178 --- [main] com.smartsti.rest.StiApplication         : No active profile set, falling back to default profiles: default
+2022-12-19 09:56:40.468  INFO 23178 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=0a1685d2-16e2-333a-b1da-2205cbe36a20
+2022-12-19 09:56:40.638  INFO 23178 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3000 (http)
+2022-12-19 09:56:40.644  INFO 23178 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-19 09:56:40.644  INFO 23178 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2022-12-19 09:56:40.728  INFO 23178 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-19 09:56:40.729  INFO 23178 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1110 ms
+2022-12-19 09:56:41.111  INFO 23178 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3000 (http) with context path ''
+2022-12-19 09:56:41.257  INFO 23178 --- [main] com.smartsti.rest.StiApplication         : Started StiApplication in 2.132 seconds (JVM running for 2.419)
+2022-12-19 09:57:08.081  INFO 23178 --- [http-nio-3000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-19 09:57:08.081  INFO 23178 --- [http-nio-3000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-12-19 09:57:08.082  INFO 23178 --- [http-nio-3000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-12-19 09:59:16.623  INFO 23289 --- [main] com.smartsti.rest.StiApplication         : Starting StiApplication using Java 11.0.2 on CAHAL1WLY18020 with PID 23289 (/Users/gsandhu/Documents/Workspace/sti/build/classes/java/main started by gsandhu in /Users/gsandhu/Documents/Workspace/sti)
+2022-12-19 09:59:16.626  INFO 23289 --- [main] com.smartsti.rest.StiApplication         : No active profile set, falling back to default profiles: default
+2022-12-19 09:59:17.349  INFO 23289 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=2f417e86-15f8-34aa-9ef6-2226665271b3
+2022-12-19 09:59:17.507  INFO 23289 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3000 (http)
+2022-12-19 09:59:17.513  INFO 23289 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-19 09:59:17.513  INFO 23289 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2022-12-19 09:59:17.586  INFO 23289 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-19 09:59:17.586  INFO 23289 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 921 ms
+2022-12-19 09:59:18.054  INFO 23289 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3000 (http) with context path ''
+2022-12-19 09:59:18.230  INFO 23289 --- [main] com.smartsti.rest.StiApplication         : Started StiApplication in 2.058 seconds (JVM running for 2.496)
+2022-12-19 09:59:24.616  INFO 23289 --- [http-nio-3000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-19 09:59:24.616  INFO 23289 --- [http-nio-3000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-12-19 09:59:24.618  INFO 23289 --- [http-nio-3000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-12-19 10:00:22.997  INFO 23345 --- [main] com.smartsti.rest.StiApplication         : Starting StiApplication using Java 11.0.2 on CAHAL1WLY18020 with PID 23345 (/Users/gsandhu/Documents/Workspace/sti/build/classes/java/main started by gsandhu in /Users/gsandhu/Documents/Workspace/sti)
+2022-12-19 10:00:23.000  INFO 23345 --- [main] com.smartsti.rest.StiApplication         : No active profile set, falling back to default profiles: default
+2022-12-19 10:00:23.703  INFO 23345 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=2f417e86-15f8-34aa-9ef6-2226665271b3
+2022-12-19 10:00:23.879  INFO 23345 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3000 (http)
+2022-12-19 10:00:23.886  INFO 23345 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-19 10:00:23.886  INFO 23345 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2022-12-19 10:00:23.961  INFO 23345 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-19 10:00:23.962  INFO 23345 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 911 ms
+2022-12-19 10:00:24.455  INFO 23345 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3000 (http) with context path ''
+2022-12-19 10:00:24.659  INFO 23345 --- [main] com.smartsti.rest.StiApplication         : Started StiApplication in 2.183 seconds (JVM running for 2.525)
+2022-12-19 10:06:32.835  INFO 23684 --- [main] com.smartsti.rest.StiApplication         : Starting StiApplication using Java 11.0.2 on CAHAL1WLY18020 with PID 23684 (/Users/gsandhu/Documents/Workspace/sti/build/classes/java/main started by gsandhu in /Users/gsandhu/Documents/Workspace/sti)
+2022-12-19 10:06:32.838  INFO 23684 --- [main] com.smartsti.rest.StiApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-12-19 10:06:33.456  INFO 23684 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=bdc2145c-4b13-3150-bce4-c2c01111f575
+2022-12-19 10:06:33.646  INFO 23684 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3000 (http)
+2022-12-19 10:06:33.652  INFO 23684 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-19 10:06:33.653  INFO 23684 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.69]
+2022-12-19 10:06:33.751  INFO 23684 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-19 10:06:33.751  INFO 23684 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 881 ms
+2022-12-19 10:06:34.140  WARN 23684 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'compositeCompatibilityVerifier' defined in class path resource [org/springframework/cloud/configuration/CompatibilityVerifierAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cloud.configuration.CompositeCompatibilityVerifier]: Factory method 'compositeCompatibilityVerifier' threw exception; nested exception is org.springframework.cloud.configuration.CompatibilityNotMetException
+2022-12-19 10:06:34.144  INFO 23684 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-12-19 10:06:34.162  INFO 23684 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-12-19 10:06:34.173 ERROR 23684 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Your project setup is incompatible with our requirements due to following reasons:
+
+- Spring Boot [2.7.6] is not compatible with this Spring Cloud release train
+
+
+Action:
+
+Consider applying the following actions:
+
+- Change Spring Boot version to one of the following versions [2.4.x, 2.5.x] .
+You can find the latest Spring Boot versions here [https://spring.io/projects/spring-boot#learn]. 
+If you want to learn more about the Spring Cloud Release train compatibility, you can visit this page [https://spring.io/projects/spring-cloud#overview] and check the [Release Trains] section.
+If you want to disable this check, just set the property [spring.cloud.compatibility-verifier.enabled=false]
+
+
+2022-12-19 10:07:11.624  INFO 23730 --- [main] com.smartsti.rest.StiApplication         : Starting StiApplication using Java 11.0.2 on CAHAL1WLY18020 with PID 23730 (/Users/gsandhu/Documents/Workspace/sti/build/classes/java/main started by gsandhu in /Users/gsandhu/Documents/Workspace/sti)
+2022-12-19 10:07:11.627  INFO 23730 --- [main] com.smartsti.rest.StiApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-12-19 10:07:12.296  INFO 23730 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=bdc2145c-4b13-3150-bce4-c2c01111f575
+2022-12-19 10:07:12.546  INFO 23730 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3000 (http)
+2022-12-19 10:07:12.555  INFO 23730 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-19 10:07:12.556  INFO 23730 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.69]
+2022-12-19 10:07:12.671  INFO 23730 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-19 10:07:12.671  INFO 23730 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1009 ms
+2022-12-19 10:07:13.132  WARN 23730 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'compositeCompatibilityVerifier' defined in class path resource [org/springframework/cloud/configuration/CompatibilityVerifierAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cloud.configuration.CompositeCompatibilityVerifier]: Factory method 'compositeCompatibilityVerifier' threw exception; nested exception is org.springframework.cloud.configuration.CompatibilityNotMetException
+2022-12-19 10:07:13.137  INFO 23730 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-12-19 10:07:13.149  INFO 23730 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-12-19 10:07:13.158 ERROR 23730 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Your project setup is incompatible with our requirements due to following reasons:
+
+- Spring Boot [2.7.6] is not compatible with this Spring Cloud release train
+
+
+Action:
+
+Consider applying the following actions:
+
+- Change Spring Boot version to one of the following versions [2.4.x, 2.5.x] .
+You can find the latest Spring Boot versions here [https://spring.io/projects/spring-boot#learn]. 
+If you want to learn more about the Spring Cloud Release train compatibility, you can visit this page [https://spring.io/projects/spring-cloud#overview] and check the [Release Trains] section.
+If you want to disable this check, just set the property [spring.cloud.compatibility-verifier.enabled=false]
+
+
+2022-12-19 10:08:26.932  INFO 23766 --- [main] com.smartsti.rest.StiApplication         : Starting StiApplication using Java 11.0.2 on CAHAL1WLY18020 with PID 23766 (/Users/gsandhu/Documents/Workspace/sti/build/classes/java/main started by gsandhu in /Users/gsandhu/Documents/Workspace/sti)
+2022-12-19 10:08:26.935  INFO 23766 --- [main] com.smartsti.rest.StiApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-12-19 10:08:27.653  INFO 23766 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=bdc2145c-4b13-3150-bce4-c2c01111f575
+2022-12-19 10:08:27.887  INFO 23766 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3000 (http)
+2022-12-19 10:08:27.894  INFO 23766 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-19 10:08:27.895  INFO 23766 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.69]
+2022-12-19 10:08:28.045  INFO 23766 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-19 10:08:28.045  INFO 23766 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1074 ms
+2022-12-19 10:08:28.552  WARN 23766 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'compositeCompatibilityVerifier' defined in class path resource [org/springframework/cloud/configuration/CompatibilityVerifierAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cloud.configuration.CompositeCompatibilityVerifier]: Factory method 'compositeCompatibilityVerifier' threw exception; nested exception is org.springframework.cloud.configuration.CompatibilityNotMetException
+2022-12-19 10:08:28.556  INFO 23766 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-12-19 10:08:28.571  INFO 23766 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-12-19 10:08:28.588 ERROR 23766 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Your project setup is incompatible with our requirements due to following reasons:
+
+- Spring Boot [2.7.6] is not compatible with this Spring Cloud release train
+
+
+Action:
+
+Consider applying the following actions:
+
+- Change Spring Boot version to one of the following versions [2.4.x, 2.5.x] .
+You can find the latest Spring Boot versions here [https://spring.io/projects/spring-boot#learn]. 
+If you want to learn more about the Spring Cloud Release train compatibility, you can visit this page [https://spring.io/projects/spring-cloud#overview] and check the [Release Trains] section.
+If you want to disable this check, just set the property [spring.cloud.compatibility-verifier.enabled=false]
+
+
+2022-12-19 10:09:48.059  INFO 23931 --- [main] com.smartsti.rest.StiApplication         : Starting StiApplication using Java 11.0.2 on CAHAL1WLY18020 with PID 23931 (/Users/gsandhu/Documents/Workspace/sti/build/classes/java/main started by gsandhu in /Users/gsandhu/Documents/Workspace/sti)
+2022-12-19 10:09:48.061  INFO 23931 --- [main] com.smartsti.rest.StiApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-12-19 10:09:48.794  INFO 23931 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-19 10:09:48.803  INFO 23931 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 3 ms. Found 0 JPA repository interfaces.
+2022-12-19 10:09:48.960  INFO 23931 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=bde33dd4-1ae2-3f64-89b9-b97b93fddf01
+2022-12-19 10:09:49.270  INFO 23931 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3000 (http)
+2022-12-19 10:09:49.277  INFO 23931 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-19 10:09:49.278  INFO 23931 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.69]
+2022-12-19 10:09:49.417  INFO 23931 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-19 10:09:49.418  INFO 23931 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1316 ms
+2022-12-19 10:09:49.557  INFO 23931 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-12-19 10:09:49.703  INFO 23931 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-12-19 10:09:49.744  INFO 23931 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-19 10:09:49.778  INFO 23931 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.14.Final
+2022-12-19 10:09:49.894  INFO 23931 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-12-19 10:09:49.957  INFO 23931 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-19 10:09:50.078  INFO 23931 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-19 10:09:50.085  INFO 23931 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-19 10:09:50.285  WARN 23931 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-19 10:09:50.620  WARN 23931 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'compositeCompatibilityVerifier' defined in class path resource [org/springframework/cloud/configuration/CompatibilityVerifierAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cloud.configuration.CompositeCompatibilityVerifier]: Factory method 'compositeCompatibilityVerifier' threw exception; nested exception is org.springframework.cloud.configuration.CompatibilityNotMetException
+2022-12-19 10:09:50.623  INFO 23931 --- [main] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-19 10:09:50.623  INFO 23931 --- [main] .SchemaDropperImpl$DelayedDropActionImpl : HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2022-12-19 10:09:50.626  INFO 23931 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-12-19 10:09:50.629  INFO 23931 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-12-19 10:09:50.631  INFO 23931 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-12-19 10:09:50.640  INFO 23931 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-12-19 10:09:50.651 ERROR 23931 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Your project setup is incompatible with our requirements due to following reasons:
+
+- Spring Boot [2.7.6] is not compatible with this Spring Cloud release train
+
+
+Action:
+
+Consider applying the following actions:
+
+- Change Spring Boot version to one of the following versions [2.4.x, 2.5.x] .
+You can find the latest Spring Boot versions here [https://spring.io/projects/spring-boot#learn]. 
+If you want to learn more about the Spring Cloud Release train compatibility, you can visit this page [https://spring.io/projects/spring-cloud#overview] and check the [Release Trains] section.
+If you want to disable this check, just set the property [spring.cloud.compatibility-verifier.enabled=false]
+
+
+2022-12-19 10:10:17.159  INFO 23948 --- [main] com.smartsti.rest.StiApplication         : Starting StiApplication using Java 11.0.2 on CAHAL1WLY18020 with PID 23948 (/Users/gsandhu/Documents/Workspace/sti/build/classes/java/main started by gsandhu in /Users/gsandhu/Documents/Workspace/sti)
+2022-12-19 10:10:17.163  INFO 23948 --- [main] com.smartsti.rest.StiApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-12-19 10:10:17.901  INFO 23948 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-19 10:10:17.910  INFO 23948 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 4 ms. Found 0 JPA repository interfaces.
+2022-12-19 10:10:18.058  INFO 23948 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=9479f0a1-974f-3a7b-870d-caf2350f2bb6
+2022-12-19 10:10:18.340  INFO 23948 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3000 (http)
+2022-12-19 10:10:18.348  INFO 23948 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-19 10:10:18.348  INFO 23948 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.69]
+2022-12-19 10:10:18.455  INFO 23948 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-19 10:10:18.455  INFO 23948 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1254 ms
+2022-12-19 10:10:18.594  INFO 23948 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-12-19 10:10:18.769  INFO 23948 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-12-19 10:10:18.812  INFO 23948 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-19 10:10:18.840  INFO 23948 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.14.Final
+2022-12-19 10:10:18.952  INFO 23948 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-12-19 10:10:19.020  INFO 23948 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-19 10:10:19.147  INFO 23948 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-19 10:10:19.155  INFO 23948 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-19 10:10:19.358  WARN 23948 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-19 10:10:19.725  WARN 23948 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'compositeCompatibilityVerifier' defined in class path resource [org/springframework/cloud/configuration/CompatibilityVerifierAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cloud.configuration.CompositeCompatibilityVerifier]: Factory method 'compositeCompatibilityVerifier' threw exception; nested exception is org.springframework.cloud.configuration.CompatibilityNotMetException
+2022-12-19 10:10:19.729  INFO 23948 --- [main] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-19 10:10:19.730  INFO 23948 --- [main] .SchemaDropperImpl$DelayedDropActionImpl : HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2022-12-19 10:10:19.732  INFO 23948 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-12-19 10:10:19.735  INFO 23948 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-12-19 10:10:19.737  INFO 23948 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-12-19 10:10:19.749  INFO 23948 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-12-19 10:10:19.764 ERROR 23948 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Your project setup is incompatible with our requirements due to following reasons:
+
+- Spring Boot [2.7.6] is not compatible with this Spring Cloud release train
+
+
+Action:
+
+Consider applying the following actions:
+
+- Change Spring Boot version to one of the following versions [2.4.x, 2.5.x] .
+You can find the latest Spring Boot versions here [https://spring.io/projects/spring-boot#learn]. 
+If you want to learn more about the Spring Cloud Release train compatibility, you can visit this page [https://spring.io/projects/spring-cloud#overview] and check the [Release Trains] section.
+If you want to disable this check, just set the property [spring.cloud.compatibility-verifier.enabled=false]
+
+
+2022-12-19 10:30:28.335  INFO 25035 --- [restartedMain] com.smartsti.rest.StiApplication         : Starting StiApplication using Java 11.0.2 on CAHAL1WLY18020 with PID 25035 (/Users/gsandhu/Documents/Workspace/sti/build/classes/java/main started by gsandhu in /Users/gsandhu/Documents/Workspace/sti)
+2022-12-19 10:30:28.337  INFO 25035 --- [restartedMain] com.smartsti.rest.StiApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-12-19 10:30:28.392  INFO 25035 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-19 10:30:28.392  INFO 25035 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-19 10:30:29.393  INFO 25035 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-19 10:30:29.459  INFO 25035 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 57 ms. Found 1 JPA repository interfaces.
+2022-12-19 10:30:29.677  INFO 25035 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=9eb1ad07-92ab-3cde-baea-62ca7642b036
+2022-12-19 10:30:30.618  INFO 25035 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3000 (http)
+2022-12-19 10:30:30.635  INFO 25035 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-19 10:30:30.636  INFO 25035 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.69]
+2022-12-19 10:30:30.792  INFO 25035 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-19 10:30:30.793  INFO 25035 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2401 ms
+2022-12-19 10:30:30.854  INFO 25035 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-12-19 10:30:31.075  INFO 25035 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-12-19 10:30:31.096  INFO 25035 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2022-12-19 10:30:31.365  INFO 25035 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-19 10:30:31.433  INFO 25035 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.14.Final
+2022-12-19 10:30:31.553  INFO 25035 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-12-19 10:30:31.680  INFO 25035 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-19 10:30:32.204  INFO 25035 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-19 10:30:32.212  INFO 25035 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-19 10:30:32.468  WARN 25035 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-19 10:30:32.749  INFO 25035 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-12-19 10:30:33.168  WARN 25035 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'compositeCompatibilityVerifier' defined in class path resource [org/springframework/cloud/configuration/CompatibilityVerifierAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cloud.configuration.CompositeCompatibilityVerifier]: Factory method 'compositeCompatibilityVerifier' threw exception; nested exception is org.springframework.cloud.configuration.CompatibilityNotMetException
+2022-12-19 10:30:33.173  INFO 25035 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-19 10:30:33.382  WARN 25035 --- [restartedMain] o.s.b.f.support.DisposableBeanAdapter    : Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-214]
+2022-12-19 10:30:33.383  INFO 25035 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-12-19 10:30:33.385  INFO 25035 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-12-19 10:30:33.387  INFO 25035 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-12-19 10:30:33.398  INFO 25035 --- [restartedMain] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-12-19 10:30:33.429 ERROR 25035 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Your project setup is incompatible with our requirements due to following reasons:
+
+- Spring Boot [2.7.6] is not compatible with this Spring Cloud release train
+
+
+Action:
+
+Consider applying the following actions:
+
+- Change Spring Boot version to one of the following versions [2.4.x, 2.5.x] .
+You can find the latest Spring Boot versions here [https://spring.io/projects/spring-boot#learn]. 
+If you want to learn more about the Spring Cloud Release train compatibility, you can visit this page [https://spring.io/projects/spring-cloud#overview] and check the [Release Trains] section.
+If you want to disable this check, just set the property [spring.cloud.compatibility-verifier.enabled=false]
+
+
+2022-12-19 10:31:56.798  INFO 25108 --- [restartedMain] com.smartsti.rest.StiApplication         : Starting StiApplication using Java 11.0.2 on CAHAL1WLY18020 with PID 25108 (/Users/gsandhu/Documents/Workspace/sti/build/classes/java/main started by gsandhu in /Users/gsandhu/Documents/Workspace/sti)
+2022-12-19 10:31:56.800  INFO 25108 --- [restartedMain] com.smartsti.rest.StiApplication         : No active profile set, falling back to default profiles: default
+2022-12-19 10:31:56.838  INFO 25108 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-19 10:31:56.838  INFO 25108 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-19 10:31:57.534  INFO 25108 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-19 10:31:57.562  INFO 25108 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 23 ms. Found 1 JPA repository interfaces.
+2022-12-19 10:31:57.711  INFO 25108 --- [restartedMain] o.s.cloud.context.scope.GenericScope     : BeanFactory id=458770d5-b096-30d6-96b7-d9858c3419d9
+2022-12-19 10:31:58.223  INFO 25108 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3000 (http)
+2022-12-19 10:31:58.232  INFO 25108 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-19 10:31:58.233  INFO 25108 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2022-12-19 10:31:58.320  INFO 25108 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-19 10:31:58.321  INFO 25108 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1481 ms
+2022-12-19 10:31:58.342  INFO 25108 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-12-19 10:31:58.421  INFO 25108 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-12-19 10:31:58.427  INFO 25108 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2022-12-19 10:31:58.570  INFO 25108 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-19 10:31:58.615  INFO 25108 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-12-19 10:31:58.739  INFO 25108 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-12-19 10:31:58.793  INFO 25108 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-19 10:31:59.204  INFO 25108 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-19 10:31:59.212  INFO 25108 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-19 10:31:59.384  WARN 25108 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-19 10:31:59.621  INFO 25108 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-12-19 10:31:59.912  INFO 25108 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3000 (http) with context path ''
+2022-12-19 10:32:00.110  INFO 25108 --- [restartedMain] com.smartsti.rest.StiApplication         : Started StiApplication in 3.764 seconds (JVM running for 4.264)
+2022-12-19 10:32:09.869  INFO 25108 --- [http-nio-3000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-19 10:32:09.869  INFO 25108 --- [http-nio-3000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-12-19 10:32:09.871  INFO 25108 --- [http-nio-3000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-12-19 10:32:23.198  INFO 25108 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-19 10:32:23.435  WARN 25108 --- [SpringApplicationShutdownHook] o.s.b.f.support.DisposableBeanAdapter    : Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2022-12-19 10:32:23.436  INFO 25108 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-12-19 10:32:23.440  INFO 25108 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-12-19 10:39:20.213  INFO 25436 --- [main] com.smartsti.rest.StiApplicationTests    : Starting StiApplicationTests using Java 11.0.2 on CAHAL1WLY18020 with PID 25436 (started by gsandhu in /Users/gsandhu/Documents/Workspace/sti)
+2022-12-19 10:39:20.216  INFO 25436 --- [main] com.smartsti.rest.StiApplicationTests    : No active profile set, falling back to default profiles: default
+2022-12-19 10:39:21.055  INFO 25436 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-19 10:39:21.124  INFO 25436 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 63 ms. Found 1 JPA repository interfaces.
+2022-12-19 10:39:21.873  INFO 25436 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-19 10:39:21.946  INFO 25436 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-12-19 10:39:22.103  INFO 25436 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-12-19 10:39:22.248  INFO 25436 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-12-19 10:39:22.449  INFO 25436 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-12-19 10:39:22.492  INFO 25436 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-19 10:39:23.108  INFO 25436 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-19 10:39:23.117  INFO 25436 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-19 10:39:23.682  WARN 25436 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-19 10:39:24.459  INFO 25436 --- [main] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2022-12-19 10:39:26.164  INFO 25436 --- [main] com.smartsti.rest.StiApplicationTests    : Started StiApplicationTests in 6.419 seconds (JVM running for 7.464)
+2022-12-19 10:39:26.345  INFO 25436 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-19 10:39:26.352  INFO 25436 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-12-19 10:39:26.359  INFO 25436 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-12-19 10:40:38.256  INFO 25496 --- [main] com.smartsti.rest.StiApplication         : Starting StiApplication v0.0.1-SNAPSHOT using Java 11.0.2 on CAHAL1WLY18020 with PID 25496 (/Users/gsandhu/Documents/Workspace/sti/target/demo-0.0.1-SNAPSHOT.jar started by gsandhu in /Users/gsandhu/Documents/Workspace/sti)
+2022-12-19 10:40:38.260  INFO 25496 --- [main] com.smartsti.rest.StiApplication         : No active profile set, falling back to default profiles: default
+2022-12-19 10:40:39.654  INFO 25496 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-19 10:40:39.773  INFO 25496 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 107 ms. Found 1 JPA repository interfaces.
+2022-12-19 10:40:40.911  INFO 25496 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3000 (http)
+2022-12-19 10:40:40.940  INFO 25496 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-19 10:40:40.942  INFO 25496 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2022-12-19 10:40:41.138  INFO 25496 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-19 10:40:41.139  INFO 25496 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2755 ms
+2022-12-19 10:40:41.271  INFO 25496 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-12-19 10:40:41.678  INFO 25496 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-12-19 10:40:41.690  INFO 25496 --- [main] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2022-12-19 10:40:42.253  INFO 25496 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-19 10:40:42.497  INFO 25496 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-12-19 10:40:42.972  INFO 25496 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-12-19 10:40:43.407  INFO 25496 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-19 10:40:44.346  INFO 25496 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-19 10:40:44.358  INFO 25496 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-19 10:40:44.871  WARN 25496 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-19 10:40:46.984  INFO 25496 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3000 (http) with context path ''
+2022-12-19 10:40:47.502  INFO 25496 --- [main] com.smartsti.rest.StiApplication         : Started StiApplication in 10.187 seconds (JVM running for 10.99)
+2022-12-19 10:40:58.415  INFO 25496 --- [http-nio-3000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-19 10:40:58.416  INFO 25496 --- [http-nio-3000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-12-19 10:40:58.417  INFO 25496 --- [http-nio-3000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-12-19 10:41:05.458  INFO 25496 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-19 10:41:05.461  INFO 25496 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-12-19 10:41:05.467  INFO 25496 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-12-19 10:41:14.793  INFO 25569 --- [main] com.smartsti.rest.StiApplicationTests    : Starting StiApplicationTests using Java 11.0.2 on CAHAL1WLY18020 with PID 25569 (started by gsandhu in /Users/gsandhu/Documents/Workspace/sti)
+2022-12-19 10:41:14.796  INFO 25569 --- [main] com.smartsti.rest.StiApplicationTests    : No active profile set, falling back to default profiles: default
+2022-12-19 10:41:15.682  INFO 25569 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-19 10:41:15.764  INFO 25569 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 74 ms. Found 1 JPA repository interfaces.
+2022-12-19 10:41:16.567  INFO 25569 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-19 10:41:16.681  INFO 25569 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-12-19 10:41:16.938  INFO 25569 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-12-19 10:41:17.106  INFO 25569 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-12-19 10:41:17.325  INFO 25569 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-12-19 10:41:17.386  INFO 25569 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-19 10:41:18.195  INFO 25569 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-19 10:41:18.206  INFO 25569 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-19 10:41:18.809  WARN 25569 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-19 10:41:19.665  INFO 25569 --- [main] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2022-12-19 10:41:22.383  INFO 25569 --- [main] com.smartsti.rest.StiApplicationTests    : Started StiApplicationTests in 7.937 seconds (JVM running for 9.102)
+2022-12-19 10:41:22.952  INFO 25569 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-19 10:41:22.962  INFO 25569 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-12-19 10:41:23.015  INFO 25569 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-12-19 10:41:39.729  INFO 25609 --- [main] com.smartsti.rest.StiApplication         : Starting StiApplication v0.0.1-SNAPSHOT using Java 11.0.2 on CAHAL1WLY18020 with PID 25609 (/Users/gsandhu/Documents/Workspace/sti/target/sti-0.0.1-SNAPSHOT.jar started by gsandhu in /Users/gsandhu/Documents/Workspace/sti)
+2022-12-19 10:41:39.732  INFO 25609 --- [main] com.smartsti.rest.StiApplication         : No active profile set, falling back to default profiles: default
+2022-12-19 10:41:40.817  INFO 25609 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-19 10:41:40.909  INFO 25609 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 82 ms. Found 1 JPA repository interfaces.
+2022-12-19 10:41:41.782  INFO 25609 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3000 (http)
+2022-12-19 10:41:41.799  INFO 25609 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-19 10:41:41.800  INFO 25609 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2022-12-19 10:41:41.927  INFO 25609 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-19 10:41:41.927  INFO 25609 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2076 ms
+2022-12-19 10:41:42.040  INFO 25609 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-12-19 10:41:42.366  INFO 25609 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-12-19 10:41:42.374  INFO 25609 --- [main] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2022-12-19 10:41:42.719  INFO 25609 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-19 10:41:42.831  INFO 25609 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-12-19 10:41:43.032  INFO 25609 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-12-19 10:41:43.202  INFO 25609 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-19 10:41:43.741  INFO 25609 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-19 10:41:43.748  INFO 25609 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-19 10:41:44.273  WARN 25609 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-19 10:41:46.285  INFO 25609 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3000 (http) with context path ''
+2022-12-19 10:41:46.779  INFO 25609 --- [main] com.smartsti.rest.StiApplication         : Started StiApplication in 7.719 seconds (JVM running for 8.403)
+2022-12-19 10:41:52.287  INFO 25609 --- [http-nio-3000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-19 10:41:52.288  INFO 25609 --- [http-nio-3000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-12-19 10:41:52.289  INFO 25609 --- [http-nio-3000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-12-19 10:41:54.489  INFO 25609 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-19 10:41:54.492  INFO 25609 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-12-19 10:41:54.496  INFO 25609 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
